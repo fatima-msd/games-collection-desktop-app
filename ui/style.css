@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 6, 2019, 8:33:52 PM
+    Author     : mainmhl
+*/
+
+#firstStage{
+    -fx-background-image : url("firstStage.jpg");
+    -fx-background-size : 600 600;
+    -fx-background-position : center center;
+    -fx-background-repeat : stretch;
+    
+}
+
+#sankesAndLaddersBoard{
+    -fx-background-image : url("sankesAndLadders.png");
+    -fx-background-size : 500 500;
+    -fx-background-position : center center;
+    -fx-background-repeat : stretch;
+}
