@@ -23,11 +23,11 @@ Player info           |            Game settings
 
 Reversi game board           |            Snakes & Ladders game board       
 :-------------------------:|:-------------------------:
-<img src="" height="600">  |  <img src="" height="600">
+<img src="https://github.com/salidotir/games-collection-desktop-app/blob/main/final%20desktop%20app%20photos/reversi.jpg" height="600">  |  <img src="https://github.com/salidotir/games-collection-desktop-app/blob/main/final%20desktop%20app%20photos/snakes&reversi.jpg" height="600">
 
 
 ## Usage
-TO run the application, execute below commands in terminal
+To run the application, execute below commands in terminal
 ### Linux:
 ```bash
 cd ui
